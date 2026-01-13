@@ -1,3 +1,3 @@
 # java-practice
 this is first respository
-Owner : aarti khedkar
+Owner : Aarti Khedkar
